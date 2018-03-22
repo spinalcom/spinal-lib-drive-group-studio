@@ -1,0 +1,15 @@
+{
+  "name": "spinal-lib-drive-group-studio",
+  "version": "v1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "spinal-env-drive-core": "git+https://github.com/spinalcom/spinal-env-drive-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
