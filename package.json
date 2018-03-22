@@ -9,7 +9,8 @@
     "create_drive_env": "create_drive_env -m"
   },
   "dependencies": {
-    "spinal-env-drive-core": "git+https://github.com/spinalcom/spinal-env-drive-core.git"
+    "spinal-env-drive-core": "git+https://github.com/spinalcom/spinal-env-drive-core.git",
+    "spinal-env-drive-group-studio": "git+https://github.com/spinalcom/spinal-env-drive-group-studio.git"
   },
   "keywords": [],
   "author": "",
