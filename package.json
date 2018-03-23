@@ -1,6 +1,6 @@
 {
-  "name": "spinal-lib-drive-group-studio",
-  "version": "v1.0.0",
+  "name": "spinal-lib-drive-inspect",
+  "version": "v1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "spinal-env-drive-core": "git+https://github.com/spinalcom/spinal-env-drive-core.git",
-    "spinal-env-drive-group-studio": "git+https://github.com/spinalcom/spinal-env-drive-group-studio.git"
+    "spinal-env-drive-inspect": "git+https://github.com/spinalcom/spinal-env-drive-inspect.git"
   },
   "keywords": [],
   "author": "",
